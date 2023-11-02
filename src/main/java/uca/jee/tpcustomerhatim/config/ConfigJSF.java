@@ -4,10 +4,15 @@
  */
 package uca.jee.tpcustomerhatim.config;
 
+import jakarta.enterprise.context.ApplicationScoped;
+import jakarta.faces.annotation.FacesConfig;
+
 /**
  *
  * @author intra
  */
+@ApplicationScoped
+@FacesConfig
 public class ConfigJSF {
     
 }
