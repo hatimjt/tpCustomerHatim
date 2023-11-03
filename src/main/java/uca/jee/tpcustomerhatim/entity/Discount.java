@@ -4,6 +4,7 @@
  */
 package uca.jee.tpcustomerhatim.entity;
 
+import uca.jee.tpcustomerhatim.entity.Customer;
 import jakarta.persistence.Basic;
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Column;
